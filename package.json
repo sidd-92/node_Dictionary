@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/sidd-92/node_Dictionary#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.2"
   }
