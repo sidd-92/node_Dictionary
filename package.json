@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sidd-92/node_Dictionary/issues"
   },
-  "homepage": "https://github.com/sidd-92/node_Dictionary#readme"
+  "homepage": "https://github.com/sidd-92/node_Dictionary#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
