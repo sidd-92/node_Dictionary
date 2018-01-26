@@ -1,0 +1,23 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "A Collection Of Different Usefull Terms for a Programmer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidd-92/node_Dictionary.git"
+  },
+  "keywords": [
+    "programming",
+    "terms"
+  ],
+  "author": "Sid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidd-92/node_Dictionary/issues"
+  },
+  "homepage": "https://github.com/sidd-92/node_Dictionary#readme"
+}
